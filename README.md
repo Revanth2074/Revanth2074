@@ -1,49 +1,68 @@
-# 👋 Hey there, I'm Sai Revanth Singavarapu
+# 👋 Hello, I'm Sai Revanth Singavarapu
 
-🚀 Passionate about building the future of autonomous mobility.  
-💡 Working on AI-driven self-driving car systems, intelligent mobility, and edge computing solutions.  
-🧠 Exploring perception, planning, and control stacks in AVs.  
+🎓 B.Tech in Computer Science (2022–2026) at KL University  
+🚗 President of [Aprameya](https://github.com/aprameya-club) – our club for Autonomous Systems & Smart Mobility  
+💻 Full-stack developer | AI/ML enthusiast | Self-driving car tech explorer  
 
 ---
 
 ### 🌟 About Me
-- 🧑‍💻 Founder & Admin of [Aprameya Club](https://github.com/aprameya-club) – Fostering innovation in smart mobility and self-driving cars.
-- 🛠️ Currently developing **Project Aura** – an autonomous vehicle platform focused on human-centric design.
-- 🧪 Hands-on with computer vision, sensor fusion, and real-time vehicle simulations.
-- 🧠 Training object detection and classification models on edge devices like Jetson Nano & Raspberry Pi 4.
-- 📚 I love sharing knowledge and mentoring peers in AI & robotics.
+
+I’m a highly motivated developer passionate about building scalable, AI-powered systems for real-world impact.  
+Whether it's detecting rare Indian vehicles, building civic engagement platforms, or simulating driverless experiences – I thrive where code meets creativity.
+
+🛠️ I enjoy:
+- Building RESTful APIs with Spring Boot & Python
+- Training YOLO models for object detection
+- Writing production-grade full-stack apps
+- Mentoring peers and leading collaborative tech projects
 
 ---
 
-### 🔧 Tech Stack
-- **Languages**: Python, C++, Shell
-- **Frameworks**: PyTorch, OpenCV, ROS, YOLO, FastAPI
-- **Tools**: Docker, Git, Conda, Ubuntu, Jetson SDK
-- **Hardware**: NVIDIA Jetson Nano, Raspberry Pi 4, LIDAR, Camera Modules
+### 🚀 Projects & Highlights
+
+- 🏆 **Urban Vision Hackathon @ IISc** – *3rd Place*
+  - Developed an object detection model (YOLOv8) for Indian road vehicles (LCVs, vans, trucks).
+  - Optimized GPU use under tight constraints, earned interview offers from IISc & CapitalOne.
+
+- 🏙️ **Citician – Civic Engagement Platform**
+  - Full-stack SaaS app using Spring Boot & MySQL.
+  - Enabled secure issue tracking, municipal workflows & civic participation.
+
+- 🤖 **Project Aura** *(In Progress)*
+  - An AI-driven autonomous vehicle concept with real-time perception & edge computing.
+  - Involves Jetson Nano integration, blind spot monitoring, and simulation.
 
 ---
 
-### 🧠 Current Focus
-- Developing a **blind spot monitoring** system with visual traffic simulation.
-- Building a **voice-controlled AI assistant** using **Ollama** on Raspberry Pi.
-- Designing a **daily class sign-up web app** for Aprameya club with admin & aspirant roles.
-- Preparing for upcoming AI hackathons & competitions 🚩
+### 🧠 Tech Toolbox
+
+- **Languages**: Java, Python, C, Kotlin  
+- **Web & Backend**: Spring Boot, Django, Hibernate, JSP, REST APIs  
+- **Frontend**: HTML, CSS, JavaScript, React (basic)  
+- **AI/ML**: YOLOv8n, YOLOv8L, CV, Deep Learning  
+- **Databases**: MySQL, PostgreSQL  
+- **Tools**: Git, Maven, Jenkins, Postman  
+- **Cloud**: AWS, GCP (basics)  
+- **Soft Skills**: Teamwork, Mentorship, Problem Solving, Communication  
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Revanth2074&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth2074&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-- ✉️ Email: sairevanth@example.com *(replace with your real one)*
-- 🔗 LinkedIn: [linkedin.com/in/sai-revanth-singavarapu](https://www.linkedin.com/)
-- 🌐 Portfolio: *(coming soon...)*
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/revanth2074/)
+- 💻 [GitHub](https://github.com/Revanth2074)
+- 📧 revanth.2074@gmail.com
 
 ---
 
-> “Building the future one neural net at a time.” 🧠🚗
+> *"Drive change through code – one model, one system, one project at a time."*
